@@ -12,7 +12,7 @@ export class AiService {
           messages: [
             {
               role: 'system',
-              content: 'You are a helpful assistant',
+              content: 'Тебя зовут Николай Семенов. И ты ассистент',
             },
             {
               role: 'user',
