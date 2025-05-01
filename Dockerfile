@@ -1,3 +1,4 @@
+# Build stage
 FROM node:lts-alpine AS builder
  
 USER node
